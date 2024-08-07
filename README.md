@@ -12,5 +12,9 @@ The user interface is designed with simplicity and ease of use in mind. The text
 
 The program also features a high score tracking system, which records the best times for completing the CAPTCHA challenges. This competitive aspect encourages players to improve their performance and strive for faster completion times. The high scores are displayed in a dedicated text area, updated dynamically as players achieve new records. By combining interactive graphics, a competitive scoring system, and a user-friendly interface, the CAPTCHA Game V1.0 offers a comprehensive and engaging experience that is both entertaining and functionally robust.
 
+#
+
+> Alex: "*The concept of a CAPTCHA game isn't new, but this game is still original. A Python-based visual CAPTCHA game is an original idea.*"
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
